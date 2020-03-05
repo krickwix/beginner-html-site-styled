@@ -16,13 +16,13 @@ p, li {
 
 
 html {
-  background-color: rgb(102, 102, 102);
+  background-color: rgb(31, 77, 161);
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(31, 77, 161);
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
